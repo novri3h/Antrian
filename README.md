@@ -4,7 +4,7 @@
 <div align="justify">Aplikasi antrian adalah perangkat lunak yang dirancang untuk mengelola dan mengatur antrian pelanggan atau pengunjung dalam berbagai konteks, seperti restoran, rumah sakit, toko, kantor pemerintah, atau tempat layanan lainnya. Tujuan utama dari aplikasi antrian adalah untuk meningkatkan efisiensi dan pengalaman pelanggan dengan menghindari antrian panjang dan tidak teratur.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-Antrian/graphs/commit-activity)
 
